@@ -1,0 +1,13 @@
+{
+    "scriptName"                 : "Online",
+    "id"                         : "applications.multimedia.zona.online",
+    "compatibleOperatingSystems" : [
+        "MACOSX",
+        "LINUX"
+    ],
+    "testingOperatingSystems" : [
+        "LINUX"
+    ],
+    "free"                    : false,
+    "requiresPatch"           : false
+}

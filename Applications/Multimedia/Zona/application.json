@@ -1,0 +1,5 @@
+{
+    "name"        : "Zona",
+    "id"          : "applications.multimedia.zona",
+    "description" : "Zona - Free software for working with file-sharing networks using the BitTorrent protocol with support for anonymous data exchange. It is written in Java. Unlike most torrent clients, it has its own illustrated catalog of films, series and games"
+}
